@@ -1,6 +1,6 @@
 * {
     background-color: black;
-    font-family: Optima, sans-serif;
+    font-family: Optima, serif;
     text-align: center;
     padding-top: 5px;
     padding-left: 30px;
@@ -41,7 +41,7 @@ h1 {
 
 h2 {
     font-size: 50px;
-    color: #ff9a00;
+    color: #ffa400;
 }
 
 h3 {
